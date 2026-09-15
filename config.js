@@ -27,5 +27,9 @@ self.APP_CONFIG = {
 
   // Nur Hauptversion: Zusammenfassung benachbarter Ortsteile in der Ortschafts-
   // Auswahl/Filterung. Leer lassen ({}), wenn nicht gebraucht.
-  ortschaftGruppen: {}
+  ortschaftGruppen: {},
+
+  // Nur Nutzerversion: Cloudflare-Worker-Adresse für das Geräte-Limit
+  // (max. 2 Geräte pro Zugangsnummer). Leer lassen (null), wenn nicht gebraucht.
+  zugangsWorkerUrl: "https://wasserentnahme-zugang.joerg-roeloffs.workers.dev/"
 };
