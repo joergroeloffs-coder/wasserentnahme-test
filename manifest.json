@@ -1,6 +1,6 @@
 {
-  "name": "Wasserentnahmestellen Leck",
-  "short_name": "H2O Leck",
+  "name": "Wasserentnahmestellen Test",
+  "short_name": "H2O Test",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

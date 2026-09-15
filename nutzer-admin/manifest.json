@@ -1,6 +1,6 @@
 {
-  "name": "Wasserentnahmestellen Leck (Admin)",
-  "short_name": "H2O Leck Admin",
+  "name": "Wasserentnahmestellen Test (Admin)",
+  "short_name": "H2O Test Admin",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
