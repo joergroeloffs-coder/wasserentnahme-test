@@ -1,6 +1,6 @@
 {
-  "name": "Wasserentnahmestellen Test",
-  "short_name": "H2O Test",
+  "name": "Löschmeier Test",
+  "short_name": "Löschmeier Test",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
